@@ -3,7 +3,7 @@ my_list = [10, 20, 10.1, 20.1, 'text', 'num', 1+2j, 5j, 50, 45]
 print(len(my_list))
 
 # 2. Create a list of size 5 and execute the slicing structure
-#234
+
 
 my_list = [10, 20, 10.1, 20.1, 'text']
 print(my_list[:])
