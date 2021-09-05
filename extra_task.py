@@ -21,6 +21,7 @@
 # xl = list(xrange(1,1001))
 # print(xl)
 
+
 # How Tuple is beneficial as compared to the list?
 # Tuples are faster than lists.
 # It makes our code safer if we “write-protect” data that does not need to be changed.
